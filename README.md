@@ -5,8 +5,7 @@ John Franti, Geoff WInner
 April 9, 2015<br />
 
 ###Description
-Scrabble Score
-Allows users to check Scrabble scores.
+Baseball Pitch Odds Game. A simple game we created that gives outcomes based on MLB averages. 
 
 ###Copyright (c) 2015 John Franti, Geoff Winner
 
